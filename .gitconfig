@@ -1,0 +1,10 @@
+[core]
+	editor = nano
+	filemode = false
+[credential]
+	helper = cache --timeout 3600
+[user]
+	name = Stephen Hill
+	email = stephen@gatekiller.co.uk
+[color]
+	ui = auto
