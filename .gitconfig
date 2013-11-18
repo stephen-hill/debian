@@ -8,3 +8,5 @@
 	email = stephen@gatekiller.co.uk
 [color]
 	ui = auto
+[push]
+	default = current
